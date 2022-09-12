@@ -1,7 +1,7 @@
 /*
 ID: siyona11
 LANG: JAVA
-TASK: gymnastics
+TASK: gymnastics 
 */
 
 import java.io.*;
